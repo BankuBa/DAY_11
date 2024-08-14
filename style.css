@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 .container {
   width: 100%;
   height: 100vh;
@@ -14,7 +13,6 @@
   gap: 3rem;
   background: linear-gradient(to right, #bdc3c7, #2c3e50);
 }
-
 .buttons {
   width: 80%;
   padding: 0 15%;
@@ -22,7 +20,6 @@
   justify-content: center;
   gap: 1rem;
 }
-
 button {
   width: 12rem;
   height: 3rem;
@@ -43,16 +40,12 @@ button:hover {
 .decrease {
   background: rgb(255, 107, 107);
 }
-
-.reset{
+.reset {
   color: black;
 }
-
-.count{
+.count {
   font-size: 46px;
 }
-
-.number{
+.number {
   font-size: 199px;
-
 }
