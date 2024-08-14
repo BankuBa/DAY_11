@@ -13,7 +13,6 @@
   flex-direction: column;
   gap: 3rem;
   background: linear-gradient(to right, #bdc3c7, #2c3e50);
-  text-align: center;
 }
 
 .buttons {
@@ -43,6 +42,10 @@ button:hover {
 
 .decrease {
   background: rgb(255, 107, 107);
+}
+
+.reset{
+  color: black;
 }
 
 .count{
